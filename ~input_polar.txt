@@ -1,0 +1,11 @@
+Time of the day: 15
+Location of collector: 0 0 0.4
+Dimensions of collector: 0.07 0.07 0.2
+N = 100
+
+
+Radius Range: 0.2 0.6
+Panel Size: 0.10
+Distance between panels: 0.2
+
+Panel Z Increment: 0

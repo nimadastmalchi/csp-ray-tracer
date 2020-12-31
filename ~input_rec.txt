@@ -1,0 +1,12 @@
+Time of the day: 9
+Location of collector: 10 0 5
+Dimensions of collector: 1 1 1
+N = 150
+
+Panel X: -5 5
+Panel Y: -5 5
+Panel Z Increment: 0
+
+Panel size: 1
+
+Increments: 2
