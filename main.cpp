@@ -22,7 +22,7 @@ plot '~var_sun_temp_fixed.txt' with point pt 7 smooth csplines
 
 */
 
-#include "RayTracer.h" // includes Ray.h (Position.h and Components.h), <iostream>, <math.h>, <vector>, <fstream>, <string>, <iomanip>
+#include "RayTracer.h" // includes Ray.h (Position.h and Components.h)
 
 using namespace std;
 
@@ -30,7 +30,7 @@ void setInput(ifstream& input, float* inputArray, const int& numOfInputs);
 
 int main() {
     cout << setprecision(4) << fixed;
-    ifstream input("~input_polar.txt");
+    ifstream input("Input/~input_polar.txt");
     float inputArray[13];
 
     setInput(input, inputArray, 13);
