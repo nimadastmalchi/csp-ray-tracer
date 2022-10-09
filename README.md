@@ -7,7 +7,7 @@ A Concentrated Solar Power (CSP) system simulator that utilizes ray-tracing.
 A CSP system uses an array of mirrors placed around a receiver to concentrate
 sunlight onto the receiver and generate heat, which is then converted to
 electricity. This program is a simulation that generates rays toward an array
-of virtual mirrors which then reflect each toward a receiver. The temperature
+of virtual mirrors which then reflect each ray toward a receiver. The temperature
 and power outputs of the receiver are calculated.
 
 Running the program with different implemented functions outputs various files.
