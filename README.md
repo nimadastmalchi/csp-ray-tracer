@@ -16,6 +16,7 @@ in Gnuplot to visualize the ray tracer or plot the data calculated.
 
 Input: Certain configuration of a CSP system, time interval in the day, time of
 year, location on earth, etc.
+
 Output: Temperature and power at the receiver of the CSP system. A file read by
 Gnuplot to generate the following diagram:
 
