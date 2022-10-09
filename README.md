@@ -8,4 +8,8 @@ which then reflect each toward a collector. The temperature and power outputs of
 Running the program with different implemented functions outputs various files. When those data files are generated, the 
 commands on top of main.cpp can be put in Gnuplot to visualize the ray tracer or plot the data calculated.
 
+Input: Certain configuration of a CSP system, time interval in the day, time of year, location on earth, etc.
+Output: Temperature and power at the receiver of the CSP system. A file read by Gnuplot to generate the following diagram:
+![alt text](https://ibb.co/8zxhQ54)
+
 Please see research paper for detailed methodology: https://thinkyou.bayhonors.org/images/2020Symposium/NimaDastmalchi_SolarPowerCapture.pdf
