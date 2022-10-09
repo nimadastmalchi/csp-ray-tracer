@@ -10,6 +10,7 @@ commands on top of main.cpp can be put in Gnuplot to visualize the ray tracer or
 
 Input: Certain configuration of a CSP system, time interval in the day, time of year, location on earth, etc.
 Output: Temperature and power at the receiver of the CSP system. A file read by Gnuplot to generate the following diagram:
-![alt text](https://ibb.co/8zxhQ54)
+
+![alt text](https://github.com/nimadastmalchi/csp-ray-tracer/blob/main/gnuplot-example-output.png?raw=true)
 
 Please see research paper for detailed methodology: https://thinkyou.bayhonors.org/images/2020Symposium/NimaDastmalchi_SolarPowerCapture.pdf
