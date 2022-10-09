@@ -8,4 +8,4 @@ which then reflect each toward a collector. The temperature and power outputs of
 Running the program with different implemented functions outputs various files. When those data files are generated, the 
 commands on top of main.cpp can be put in Gnuplot to visualize the ray tracer or plot the data calculated.
 
-Please see research paper for detailed methodology: https://thinkyou.bayhonors.org/images/2020Symposium/NimaDastmalchi_SolarPowerCapture.pdf![image](https://user-images.githubusercontent.com/60092567/194778048-e2ed4326-ec70-429e-9773-01b4d24aaf46.png)
+Please see research paper for detailed methodology: https://thinkyou.bayhonors.org/images/2020Symposium/NimaDastmalchi_SolarPowerCapture.pdf
