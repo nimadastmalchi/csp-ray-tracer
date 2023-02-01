@@ -1,5 +1,6 @@
 # CSPRayTracer
 Author: Nima Dastmalchi
+
 Data: 03/29/2021
 
 A Concentrated Solar Power (CSP) system simulator that utilizes ray-tracing. 
