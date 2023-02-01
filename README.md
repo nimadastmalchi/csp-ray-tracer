@@ -25,6 +25,6 @@ Gnuplot to generate the following diagram:
 Link to public repo: https://github.com/nimadastmalchi/csp-ray-tracer
 
 Please see research paper for detailed methodology:
-https://thinkyou.bayhonors.org/images/2020Symposium/NimaDastmalchi_SolarPowerCapture.pdf
+~https://thinkyou.bayhonors.org/images/2020Symposium/NimaDastmalchi_SolarPowerCapture.pdf~
 
-Edit: Above link is temporarily down, see here instead: https://drive.google.com/file/d/1v3IZShhF47HLz45c6JaK69IsqogkkLTd/view?usp=sharing
+https://drive.google.com/file/d/1v3IZShhF47HLz45c6JaK69IsqogkkLTd/view?usp=sharing
