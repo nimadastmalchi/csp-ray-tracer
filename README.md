@@ -28,4 +28,10 @@ Link to public repo: https://github.com/nimadastmalchi/csp-ray-tracer
 Please see research paper for detailed methodology:
 ~https://thinkyou.bayhonors.org/images/2020Symposium/NimaDastmalchi_SolarPowerCapture.pdf~
 
+https://doi.org/10.13140/RG.2.2.20408.93442
+
+Access here if above links do not work:
+
 https://drive.google.com/file/d/1v3IZShhF47HLz45c6JaK69IsqogkkLTd/view?usp=sharing
+
+
