@@ -65,7 +65,7 @@ float Vector::getAngle(Vector v) const {
     float x = dot(v) / (getMag() * v.getMag());
     if (x > 1)
         return 0;
-    return acos(dot(v) / (getMag() * v.getMag()));
+    return acos(x);
 }
 Vector Vector::getUnit() {
     Vector unit = *this / getMag();
